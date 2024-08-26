@@ -1,3 +1,7 @@
+# 365 Days of Python Programming
+# Author: KienTech
+
+
 def reverse_string(input_string):
     """
     This function takes a string as input and returns the string reversed.

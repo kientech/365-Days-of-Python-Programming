@@ -1,0 +1,18 @@
+# macOS
+.DS_Store
+
+# IDE folders
+.idea/
+*.iml
+
+# Local files
+people.csv
+data.json
+sample.txt
+todolist.json
+qrcode.png
+sample.md
+sample.html
+source_image.jpg
+watermarked_image.jpg
+test_organization_folder/ 
